@@ -15,6 +15,6 @@ public class Main {
 
     @GetMapping("/selam") // Tarayıcıya veya Postman'e bunu yazınca çalışacak
     public String selamVer() {
-        return "İnşaat Mühendisi Görev Takip Sistemine Hoş Geldiniz!zzzzzsss";
+        return "İnşaat Mühendisi Görev Takip Sistemine Hoş Geldinigi";
     }
 }
